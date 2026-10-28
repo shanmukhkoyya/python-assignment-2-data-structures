@@ -66,3 +66,20 @@ The assignment covers Lists, Dictionaries, Sets, and conditional logic.
 ```text
 Enter your score (0 to 10): 7
 Average: Good effort! Keep practicing, there's room for improvement.
+
+## Files
+
+| File | Purpose |
+|---|---|
+| [Assignment notebook](Data%20Structures%20-%20List%2C%20Dictionary%2C%20Set%20%20%26%20Conditional%20Statements.ipynb) | Python examples with saved outputs |
+| [Assignment brief](Python%20Funda%20Assignment%202_%20Data%20Structures%20-%20List%2C%20Dictionary%2C%20Set%20%26%20Conditional%20Statements.pdf) | Original exercise instructions |
+| [Final report](Python_Assignment_2_Final_Report.pdf) | Written assignment report |
+
+## How to run
+
+1. Open the notebook in Jupyter Notebook or JupyterLab.
+2. Select **Kernel → Restart Kernel and Run All Cells**.
+3. Enter a score from 0 to 10 when the conditional-statements example asks for input.
+4. Review the list, dictionary, set, and conditional outputs.
+
+The saved example uses a score of **6** to demonstrate the Average branch. The original input prompt remains interactive.
