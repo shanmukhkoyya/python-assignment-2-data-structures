@@ -1,47 +1,25 @@
-# Python Assignment 02 — Data Structures & Decisions
+# 🧰 PYTHON DATA-STRUCTURE TOOLKIT
+**Assignment 02 · Collections and decisions**
 
-> A compact programming exercise covering lists, dictionaries, sets and conditional branching.
+## Toolbox
+<table><tr><td align="center">📋<h3>LIST</h3>append · insert · remove · pop · sort</td><td align="center">🗝️<h3>DICT</h3>create · read · add · update · keys</td></tr><tr><td align="center">🔢<h3>SET</h3>unique · union · intersection</td><td align="center">🚦<h3>CONDITIONS</h3>if · elif · else</td></tr></table>
 
-## What this assignment practises
+## Input/output demo
+| Input score | Branch | Example |
+|---:|---|---|
+| 6 / 10 | Average | Keep improving! |
 
-| Topic | Operations |
-|---|---|
-| **Lists** | append, insert, remove, pop, extend, sorting, indexing and slicing |
-| **Dictionaries** | create, read, add, update, keys, values and items |
-| **Sets** | unique values, duplicate removal, union and intersection |
-| **Conditions** | if, elif and else |
-| **Input/output** | accept a score and return a category |
+<pre>Enter your score (0-10): 6
+Average
+Good effort! Keep practicing.</pre>
+<sub>This is one saved interactive example, not a fixed result.</sub>
 
-## Example run
+## Assignment kit
+- [📓 Completed notebook](Data%20Structures%20-%20List%2C%20Dictionary%2C%20Set%20%20%26%20Conditional%20Statements.ipynb)
+- [📄 Assignment brief](Python%20Funda%20Assignment%202_%20Data%20Structures%20-%20List%2C%20Dictionary%2C%20Set%20%26%20Conditional%20Statements.pdf)
+- [📘 Final report](Python_Assignment_2_Final_Report.pdf)
 
-The saved notebook demonstrates the Average branch with an input score of 6.
+## Practice loop
+OPEN → RUN CELLS → ENTER SCORE → INSPECT COLLECTION OPERATIONS → TRY NEW VALUES
 
-    Enter your score (0-10): 6
-    6
-    Average
-    Average
-    Keep improving!
-    Average: Good effort! Keep practicing, there's room for improvement.
-
-The prompt is still interactive; this is the saved example, not a fixed program result for every input.
-
-## Assignment files
-
-- [Notebook — Lists, Dictionaries, Sets and Conditional Statements](Data%20Structures%20-%20List%2C%20Dictionary%2C%20Set%20%20%26%20Conditional%20Statements.ipynb)
-- [Original assignment brief](Python%20Funda%20Assignment%202_%20Data%20Structures%20-%20List%2C%20Dictionary%2C%20Set%20%26%20Conditional%20Statements.pdf)
-- [Written final report](Python_Assignment_2_Final_Report.pdf)
-
-## Run
-
-1. Open the notebook in Jupyter Notebook or JupyterLab.
-2. Restart the kernel and run all cells.
-3. Enter a score from 0 to 10 when requested.
-4. Review the list, dictionary, set and conditional outputs.
-
-## Level and scope
-
-This is a beginner-level programming assignment. It uses simple sample values and interactive input to practise Python concepts; it is not a business analytics project.
-
----
-
-**Author:** Shanmukh Koyya · [GitHub](https://github.com/shanmukhkoyya) · [LinkedIn](https://www.linkedin.com/in/shanmukh-koyya/)
+Beginner programming exercise using sample values; not a business analytics project.
