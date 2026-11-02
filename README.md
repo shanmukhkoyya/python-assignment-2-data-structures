@@ -1,85 +1,68 @@
-# Python Assignment 2 - Data Structures & Conditional Statements
+# Python Assignment 2 — Data Structures & Conditional Statements
 
-## 📌 Project Overview
+## Project Overview
 
-This project demonstrates fundamental Python programming concepts using practical exercises focused on data structures and conditional statements.
+This project demonstrates fundamental Python programming concepts through practical exercises focused on lists, dictionaries, sets, and conditional statements.
 
-The assignment covers Lists, Dictionaries, Sets, and conditional logic.
+## Learning Objectives
 
-## 🎯 Objectives
+- Create and modify Python lists.
+- Access, sort, and manipulate list elements.
+- Create and update dictionaries.
+- Work with dictionary keys, values, and items.
+- Understand sets, duplicate removal, union, and intersection.
+- Apply conditional statements using user input.
+- Classify scores using `if`, `elif`, and `else`.
 
-- Create and modify Python lists
-- Perform common list operations
-- Access and manipulate list elements
-- Create and update dictionaries
-- Work with dictionary keys, values, and items
-- Understand set behavior and duplicate removal
-- Perform union and intersection operations
-- Apply conditional statements using user input
-- Classify scores based on performance
+## Concepts Covered
 
-## 🛠️ Technologies Used
+| Topic | Examples |
+|---|---|
+| Lists | Append, insert, remove, pop, extend, sorting, indexing, slicing |
+| Dictionaries | Create, read, add, update, keys, values, items |
+| Sets | Unique values, duplicate removal, union, intersection |
+| Conditional statements | `if`, `elif`, `else`, score classification |
+| Input and output | Accept a score and display a category |
 
-- Python
-- Jupyter Notebook
+## Sample Output
 
-## 📚 Concepts Covered
-
-### Lists
-- Append
-- Insert
-- Remove
-- Pop
-- Extend
-- Sorting
-- Maximum and minimum
-- Sum
-- Indexing
-- Slicing
-- Reversing
-
-### Dictionaries
-- Dictionary creation
-- Accessing values
-- Adding key-value pairs
-- Updating values
-- Keys, values, and items
-
-### Sets
-- Set creation
-- Duplicate removal
-- Set operations
-- Union
-- Intersection
-- Set indexing limitations
-
-### Conditional Statements
-- `if`
-- `elif`
-- `else`
-- User input
-- Score classification
-- Performance messages
-
-## 📊 Sample Output
+The saved notebook output uses a score of 6 to demonstrate the Average branch.
 
 ```text
-Enter your score (0 to 10): 7
+Enter your score (0-10): 6
+6
+Average
+Average
+Keep improving!
 Average: Good effort! Keep practicing, there's room for improvement.
+```
 
-## Files
+## Project Files
 
-| File | Purpose |
+| File | Description |
 |---|---|
 | [Assignment notebook](Data%20Structures%20-%20List%2C%20Dictionary%2C%20Set%20%20%26%20Conditional%20Statements.ipynb) | Python examples with saved outputs |
 | [Assignment brief](Python%20Funda%20Assignment%202_%20Data%20Structures%20-%20List%2C%20Dictionary%2C%20Set%20%26%20Conditional%20Statements.pdf) | Original exercise instructions |
 | [Final report](Python_Assignment_2_Final_Report.pdf) | Written assignment report |
 
-## How to run
+## How to Run
 
 1. Open the notebook in Jupyter Notebook or JupyterLab.
 2. Select **Kernel → Restart Kernel and Run All Cells**.
-3. Enter a score from 0 to 10 when the conditional-statements example asks for input.
-4. Review the list, dictionary, set, and conditional outputs.
+3. Enter a score from 0 to 10 when prompted.
+4. Review the list, dictionary, set, and conditional-statement outputs.
 
-The saved example uses a score of **6** to demonstrate the Average branch. The original input prompt remains interactive.
+The saved example uses score **6**. The original input prompt remains interactive.
+
+## Scope and Limitations
+
+- This is a beginner-level programming assignment.
+- The examples are for learning Python concepts, not business analysis.
+- The notebook uses simple sample values and interactive input.
+
+## Author
+
+**Shanmukh Koyya**
+
+- [GitHub](https://github.com/shanmukhkoyya)
+- [LinkedIn](https://www.linkedin.com/in/shanmukh-koyya/)
