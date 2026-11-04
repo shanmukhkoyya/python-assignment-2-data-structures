@@ -3,14 +3,20 @@
 ## Four tools on the bench
 <table><tr><td align="center"><h2>📋 LIST</h2><code>append()</code><br/><code>insert()</code><br/><code>remove()</code><br/><code>sort()</code></td><td align="center"><h2>🗝️ DICTIONARY</h2><code>keys()</code><br/>Read · Add<br/>Update · Access</td></tr><tr><td align="center"><h2>🔢 SET</h2>Unique values<br/>Union<br/>Intersection</td><td align="center"><h2>🚦 CONDITIONS</h2><code>if</code><br/><code>elif</code><br/><code>else</code></td></tr></table>
 
-## Example console
-```console
-$ python assignment_2.py
-Enter your score (0-10): 6
-Average
-Good effort! Keep practicing.
-```
-<sub>One saved interactive example; the output depends on entered values.</sub>
+## Open and run the notebook
+
+This assignment is provided as a Jupyter notebook; there is no `assignment_2.py` script in this repository.
+
+1. Install Jupyter if it is not already installed: `pip install notebook`.
+2. In a terminal, move to the downloaded repository folder and run:
+
+   ```console
+   jupyter notebook
+   ```
+3. Open the notebook linked below and run the cells from top to bottom.
+4. When prompted, enter a score from `0` to `10` to test the conditional statements.
+
+The saved example output uses the score `6`; your output will depend on the score you enter.
 
 ## Workbook drawer
 | ITEM | OPEN |
